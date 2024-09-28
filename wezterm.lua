@@ -11,7 +11,7 @@ config={
   default_cursor_style="BlinkingBar",
   color_scheme="Catppuccin Mocha (Gogh)",
   font=wezterm.font("MonoLisa"),
-  font_size=13.7,
+  font_size=14.5,
   default_prog={"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"},
   window_background_opacity=0.97,
 }
