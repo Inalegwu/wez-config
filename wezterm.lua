@@ -10,8 +10,8 @@ config={
   window_decorations="RESIZE",
   default_cursor_style="BlinkingBar",
   color_scheme="Catppuccin Mocha",
-  font=wezterm.font("MonoLisa"),
-  font_size=16.5,
+  font=wezterm.font("Maple Mono"),
+  font_size=17.5,
   window_background_opacity=0.8999,
   scrollback_lines=3500
 }
