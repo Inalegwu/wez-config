@@ -9,10 +9,10 @@ config={
   window_close_confirmation="NeverPrompt",
   window_decorations="RESIZE",
   default_cursor_style="BlinkingBar",
-  color_scheme="Catppuccin Mocha",
+  color_scheme="Everforest Dark (Gogh)",
   font=wezterm.font("Maple Mono"),
   font_size=17.5,
-  window_background_opacity=0.8999,
+  window_background_opacity=0.89999,
   scrollback_lines=3500
 }
 
