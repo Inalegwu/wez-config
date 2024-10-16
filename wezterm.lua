@@ -15,7 +15,7 @@ config={
   -- font=wezterm.font("Cartograph CF"),
   -- font=wezterm.font("Rec Mono Casual"),
   font=wezterm.font("Operator Mono Lig"),
-  font_size=21,
+  font_size=19.5,
   window_background_opacity=0.89999,
   scrollback_lines=3500
 }
