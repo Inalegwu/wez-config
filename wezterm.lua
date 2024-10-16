@@ -11,8 +11,11 @@ config={
   default_cursor_style="BlinkingBar",
   color_scheme="Poimandres",
   -- font=wezterm.font("Maple Mono"),
-  font=wezterm.font("MonoLisa"),
-  font_size=17.5,
+  -- font=wezterm.font("MonoLisa"),
+  -- font=wezterm.font("Cartograph CF"),
+  -- font=wezterm.font("Rec Mono Casual"),
+  font=wezterm.font("Operator Mono Lig"),
+  font_size=21,
   window_background_opacity=0.89999,
   scrollback_lines=3500
 }
