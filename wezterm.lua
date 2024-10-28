@@ -10,8 +10,8 @@ config={
   window_decorations="RESIZE",
   default_cursor_style="BlinkingBar",
   color_scheme="Poimandres",
-  font=wezterm.font("Fira Code"),
-  font_size=17.5,
+  font=wezterm.font("Cartograph CF"),
+  font_size=18,
   window_background_opacity=0.89999,
   scrollback_lines=3500
 }
