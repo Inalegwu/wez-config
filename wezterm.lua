@@ -10,8 +10,8 @@ config={
   window_decorations="RESIZE",
   default_cursor_style="BlinkingBar",
   color_scheme="Tokyo Night (Gogh)",
-  font=wezterm.font("Cartograph CF"),
-  font_size=18,
+  font=wezterm.font("FantasqueSansMono Nerd Font"),
+  font_size=18.5,
   window_background_opacity=0.89999,
   scrollback_lines=3500
 }
