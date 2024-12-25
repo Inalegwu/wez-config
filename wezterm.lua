@@ -9,11 +9,12 @@ config={
   window_close_confirmation="NeverPrompt",
   window_decorations="RESIZE",
   default_cursor_style="BlinkingBar",
-  color_scheme="Tokyo Night (Gogh)",
-  font=wezterm.font("Cartograph CF"),
-  font_size=17,
+  color_scheme="Poimandres",
+  font=wezterm.font("Geist Mono"),
+  font_size=15,
   window_background_opacity=0.89999,
-  scrollback_lines=3500
+  scrollback_lines=3500,
+  default_prog={"powershell.exe"}
 }
 
 
