@@ -9,10 +9,10 @@ config={
   window_close_confirmation="NeverPrompt",
   window_decorations="RESIZE",
   default_cursor_style="BlinkingBar",
-  color_scheme="Poimandres",
+  color_scheme="Sequoia Moonlight",
   font=wezterm.font("Geist Mono"),
   font_size=15,
-  window_background_opacity=0.89999,
+  window_background_opacity=0.93,
   scrollback_lines=3500,
   default_prog={"powershell.exe"}
 }
